@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-boot2-redis-cache
+  redis:
+    host: localhost
+    port: 6381
+    database: 7
+    timeout: 1s
