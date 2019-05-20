@@ -3,6 +3,8 @@
 Java通过LinkedHashMap实现LRU。
 
 https://www.cnblogs.com/lzrabbit/p/3734850.html
+
+Map.Entry使用详解:https://www.cnblogs.com/ningvsban/archive/2013/05/06/3062217.html
 ```java
 package cn.edu.seu.wh.redis;
 
