@@ -1,5 +1,7 @@
 阅读：https://yq.aliyun.com/articles/63034
+
 Java通过LinkedHashMap实现LRU。
+
 https://www.cnblogs.com/lzrabbit/p/3734850.html
 ```java
 package cn.edu.seu.wh.redis;
